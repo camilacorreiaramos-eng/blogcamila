@@ -3,7 +3,7 @@ body{
 }
 
 header {
-    background-color: #2B0979;
+    background-color: #360e92;
     color: #EDEDFF;
     text-align: center;
     margin: 0 auto;
@@ -12,7 +12,7 @@ header {
 }
 
 main {
-    background-color: #EDEDFF;
+    background-color: #ececf5;
     color: #2B0979;
     margin: 0 auto;
     padding: 20px;
